@@ -271,6 +271,10 @@ img {
     justify-content: center;
   }
 
+.team .container {
+  max-width: 8px;
+}
+  
   .team .container h4 {
     font-size: 25px;
   }
