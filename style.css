@@ -205,18 +205,6 @@ img {
   gap: 1.4rem;
 }
 
-.team .container {
-  max-width: 8px;
-}
-
-.container h4 {
-  font-size: 25px;
-}
-
-.container p {
-  font-size: 15px;
-}
-
 .team img {
   border-radius: 10px;
 }
@@ -281,6 +269,14 @@ img {
 
   .gallery-flex {
     justify-content: center;
+  }
+
+  .team .container h4 {
+    font-size: 25px;
+  }
+
+  .team container p {
+    font-size: 15px;
   }
 
   .footer .footer-flex {
