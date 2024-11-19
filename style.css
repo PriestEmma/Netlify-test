@@ -272,14 +272,14 @@ img {
   }
 
 .team .container {
-  max-width: 8px;
+  max-width: 50%;
 }
   
   .team .container h4 {
     font-size: 25px;
   }
 
-  .team container p {
+  .team .container p {
     font-size: 15px;
   }
 
