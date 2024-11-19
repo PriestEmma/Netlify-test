@@ -209,6 +209,14 @@ img {
   max-width: 900px;
 }
 
+.container h4 {
+  font-size: 25px;
+}
+
+.container p {
+  font-size: 15px;
+}
+
 .team img {
   border-radius: 10px;
 }
