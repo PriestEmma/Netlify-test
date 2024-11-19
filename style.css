@@ -205,6 +205,10 @@ img {
   gap: 1.4rem;
 }
 
+.team .container {
+  max-width: 900px;
+}
+
 .team img {
   border-radius: 10px;
 }
