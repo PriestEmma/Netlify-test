@@ -274,6 +274,10 @@ img {
 .team {
   padding: 5px 0 5px;
 }
+
+  .team-flex {
+    max-width: 2px;
+  }
   
 .team .container {
   max-width: 800px;
