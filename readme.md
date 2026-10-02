@@ -4,7 +4,7 @@ Simple HTML/CSS website for creative agency
 
 ## Screenshot
 
-![Lumina Screenshot](./Images/lumina-screenshot.png)
+<img src="./Images/lumina-screenshot.png" alt="Lumina project screenshot" width="600">
 
 ## Live Demo
 
